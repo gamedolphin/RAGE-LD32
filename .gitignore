@@ -1,0 +1,7 @@
+frameworks/
+tools/
+linux-build/
+*._*
+.tern-port
+runtime/
+publish/
